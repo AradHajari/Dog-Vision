@@ -1,2 +1,8 @@
+Dog Vision
+Identifying the breed of a dog by its picture using tensorflow deep learning models.
 Link of the dataset
 https://drive.google.com/drive/folders/1lZsgbzAyF86ELmGhpyQAicQjxsb4T1qQ?usp=drive_link
+
+Test results on one picture and on the whole dataset:
+
+
